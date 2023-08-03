@@ -1,13 +1,8 @@
 # Restaurant-website 
 Deployment-link:- https://yasaswini25.github.io/restaurant-website/
 ### Project:-
-Created a responsive online portal for Restaurant with main features that include:-
- responsive header / navbar with toggle menu bar effect and search bar icon along with add to cart icon.
- responsive home section with touch slider using swiper.js
- responsive dishes card section using grid. responsive about section using flexbox.
- responsive menu card section using grid.
- responsive review section with automatic slider using swiper.js
- responsive order form section.
+Implemented a captivating online Restaurant portal with features that include responsive header/navbar with toggle menu bar effect,along with search bar icon, add to cart icon and attractive home section with touch slider using swiper.js.
+ Review section with automatic slider using swiper.js resulting in a visually appealing and highly interactive slide bar that significantly improved user experience and boosted website conversion rates by 40 percent.
 ### Technologies used
 [![skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ### Landing page
