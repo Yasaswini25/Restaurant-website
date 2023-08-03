@@ -1,5 +1,5 @@
 # Restaurant-website 
-Deployment-link:-https://yasaswini25.github.io/Restaurant-website/
+Deployment-link:- https://yasaswini25.github.io/restaurant-website/
 ### Project:-
 Created a responsive online portal for Restaurant with main features that include:-
  responsive header / navbar with toggle menu bar effect and search bar icon along with add to cart icon.
